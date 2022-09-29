@@ -23,7 +23,7 @@ print("""
 \033[0;96m| '--'R|| '--'I|| '--'F|| '--'A|| '--'T|
  \033[0;96m`------'`------'`------'`------'`------'
 
-print("\033[0;91mThis Tool's Free By Heron cyber")
+print("\033[0;91mThis Tool's Free By Rifat cyber")
 
 psb('\x1b[1;92mBANGLADESH 6 DIGIT CLONING START PLEASE WAIT .....')
 for n in range(90000):
